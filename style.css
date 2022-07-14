@@ -1,0 +1,64 @@
+* {
+    font-family: Arial, Verdana, sans-serif;  
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+i {
+    color: green;
+}
+
+i {
+    color: red;
+}
+
+b {
+    color: pink;
+}
+
+p b {
+    color: violet;
+}
+
+p #intro {
+    font-size: 100%;
+}
+
+p {
+    font-size: 75%;
+}
+
+.vidu2 {
+    color: red;
+}
+
+.container {
+    width: 800px;
+    height: 1000px;
+    margin: 0 auto;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.layout-hd {
+    height: 30px;
+    background-color: green;
+    color: #ffff;
+}
+
+.layout-body-slide {
+    background-color: pink;
+    height: 200px;
+}
+
+.layout-body-content {
+    background-color: red;
+    height: 700px;
+}
+
+.layout-footer {
+    background-color: blueviolet;
+    height: 70px;
+}
